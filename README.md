@@ -1,0 +1,1 @@
+# CheckIfA2DArrayIsAMagicSquare
