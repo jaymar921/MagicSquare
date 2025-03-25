@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfA2DArrayIsAMagicSquare", "CheckIfA2DArrayIsAMagicSquare.csproj", "{7EBBAEF5-9BC4-45DF-AA3E-0CA07D0B59A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBBAEF5-9BC4-45DF-AA3E-0CA07D0B59A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBBAEF5-9BC4-45DF-AA3E-0CA07D0B59A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBBAEF5-9BC4-45DF-AA3E-0CA07D0B59A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBBAEF5-9BC4-45DF-AA3E-0CA07D0B59A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7E012F-4178-4D26-A06F-195116D573FD}
+	EndGlobalSection
+EndGlobal
